@@ -432,6 +432,10 @@ button:focus {
     z-index: 3;
 }
 
+.event-img:hover {
+    transform: scale(1.05);
+}
+
 .lbox-details a.btn:hover {
     background: #dd666c;
 }
