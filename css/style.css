@@ -162,7 +162,7 @@ button:focus {
     right: 0;
     bottom: 0;
     left: 0;
-    background: #dd666c;
+    background: #66ddbd;
     z-index: 11000;
     position: fixed;
     display: block;
@@ -298,6 +298,10 @@ button:focus {
 
 .navbar-brand img {
     width: 45%;
+}
+
+.navbar-nav li a {
+    color: black;
 }
 
 .top-header.fixed-menu {
@@ -619,7 +623,7 @@ button:focus {
 }
 
 .family-info h4 {
-    font-family: 'Marck Script', cursive;
+    font-family: cursive;
     font-size: 24px;
 }
 
