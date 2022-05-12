@@ -297,7 +297,7 @@ button:focus {
 }
 
 .navbar-brand img {
-    width: 45%;
+    width: 35%;
 }
 
 .navbar-nav li a {
@@ -381,6 +381,10 @@ button:focus {
     text-align: center;
     vertical-align: middle;
     position: relative;
+}
+
+.lbox-details a {
+    margin-top: 10%;
 }
 
 .lbox-details::before {
@@ -727,7 +731,6 @@ button:focus {
 }
 
 .event-inner a {
-    background: #dd666c;
     color: #ffffff;
     padding: 5px 10px;
     display: inline-block;
@@ -735,8 +738,12 @@ button:focus {
     font-weight: 500;
 }
 
+.redbg {
+    background-color: #dd666c;
+}
+
 .event-inner a:hover {
-    background: #63c7bd;
+    background-color: #207de8;
 }
 
 
